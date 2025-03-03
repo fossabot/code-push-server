@@ -1,4 +1,5 @@
 # CodePush Server ![Node.js CI](https://github.com/shm-open/code-push-server/workflows/Node.js%20CI/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fcode-push-server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fcode-push-server?ref=badge_shield)
 
 [[Chinese version 中文版]](./README.cn.md)
 
@@ -61,3 +62,7 @@ check out the [code-push-cli](https://github.com/shm-open/code-push-cli) which w
     -   `>=1.2.3 <1.2.7`
     -   `~1.2.3`
     -   `^1.2.3`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fcode-push-server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fcode-push-server?ref=badge_large)
